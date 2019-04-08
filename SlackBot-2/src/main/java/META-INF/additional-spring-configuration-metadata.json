@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "slackBotToken",
+    "type": "java.lang.String",
+    "description": "A description for 'slackBotToken'"
+  },
+  {
+    "name": "slashCommandToken",
+    "type": "java.lang.String",
+    "description": "A description for 'slashCommandToken'"
+  }
+]}
